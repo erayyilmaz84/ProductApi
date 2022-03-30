@@ -24,6 +24,7 @@ type commands to create PosgreSQL and its administrator app pgAdmin as a docker 
     * Use pgAdmin to create a database with the values in docker-compose.yml
 
 type commands to add dependencies to project and install necessary net6 tools
+
     * dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
     * dotnet add package Microsoft.EntityFrameworkCore.Design
     * dotnet tool install --global dotnet-ef
