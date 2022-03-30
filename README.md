@@ -39,3 +39,4 @@ type commands to add dependencies to project and install necessary net6 tools
     * dotnet tool install --global dotnet-ef
     * dotnet ef migrations add InitialMigration
     * dotnet ef database update
+    
